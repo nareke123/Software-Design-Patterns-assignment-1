@@ -1,3 +1,5 @@
+//Паттерн "Prototype" используется для создания объектов путем копирования существующего объекта-прототипа вместо создания новых экземпляров с помощью конструктора
+
 public class Product implements Cloneable{
     private String name;
     private double price;

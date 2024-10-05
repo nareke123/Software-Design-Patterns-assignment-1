@@ -1,3 +1,5 @@
+//Цель паттерна Builder — создать сложные объекты с множеством параметров, избегая длинных конструкторов с большим количеством аргументов.
+
 public class House {
     private int numRooms;
     private int numFloors;
